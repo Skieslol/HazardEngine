@@ -1,0 +1,32 @@
+{
+  "name": "hazardengine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skieslol/HazardEngine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Skieslol/HazardEngine/issues"
+  },
+  "homepage": "https://github.com/Skieslol/HazardEngine#readme",
+  "keywords": [
+    "GameEngine",
+    "Engine",
+    "HazardEngine",
+    "Typescript"
+  ],
+  "author": "Skieslol",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "typescript": "^4.8.4"
+  }
+}
